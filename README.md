@@ -1,3 +1,4 @@
+# 外部引入状态机库 使用
 # 21点游戏 - Cocos Creator 制造
 
 「21点游戏」是 Cocos Creator 的 Demo 项目之一。由腾讯游戏和触控科技联合开发，用于教学和展示 Cocos Creator 快速开发游戏界面和玩法的目的。
